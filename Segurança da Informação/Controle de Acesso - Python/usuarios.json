@@ -1,0 +1,46 @@
+[
+    {
+        "email": "usuario1",
+        "senha": "senha1"
+    },
+    {
+        "email": "adm",
+        "senha": "adm123"
+    },
+    {
+        "email": "gab",
+        "senha": "1234"
+    },
+    {
+        "email": "teste",
+        "senha": "teste1234"
+    },
+    {
+        "email": "hakas",
+        "senha": "123"
+    },
+    {
+        "email": "haku",
+        "senha": "123"
+    },
+    {
+        "email": "afonso",
+        "senha": "muller"
+    },
+    {
+        "email": "natan",
+        "senha": "1234"
+    },
+    {
+        "email": "joao",
+        "senha": "mineiro"
+    },
+    {
+        "email": "opa",
+        "senha": "123"
+    },
+    {
+        "email": "teste3",
+        "senha": "teste3"
+    }
+]

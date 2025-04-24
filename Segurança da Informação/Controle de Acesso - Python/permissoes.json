@@ -1,0 +1,49 @@
+{
+    "dados.txt": {
+        "gabriel": [
+            "listar",
+            "criar",
+            "ler",
+            "excluir",
+            "executar"
+        ],
+        "adm": [
+            "listar",
+            "criar",
+            "ler",
+            "excluir",
+            "executar"
+        ],
+        "usuario@gmail.com": [
+            "ler"
+        ],
+        "teste2": [],
+        "hakas": [],
+        "haku": [],
+        "afonso": [],
+        "natan": [],
+        "joao": [],
+        "opa": [],
+        "teste3": []
+    },
+    "relatorio.csv": {
+        "adm": [
+            "listar",
+            "criar",
+            "ler",
+            "excluir",
+            "executar"
+        ],
+        "usuario@gmail.com": [
+            "ler"
+        ],
+        "teste2": [],
+        "hakas": [],
+        "haku": [],
+        "afonso": [],
+        "natan": [],
+        "joao": [],
+        "opa": [],
+        "teste3": []
+    }
+}
